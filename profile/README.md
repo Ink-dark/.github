@@ -25,8 +25,9 @@ A developer with a head full of crazy ideas. I love building things from scratch
 | 项目 Project | 简介 Description | 状态 Status |
 |-------------|-----------------|-------------|
 | [**AdapterGit (agit)**](https://github.com/Ink-dark/AdapterGit) | AI 优先、纯 Rust 原生 Git 工具 / AI-first, pure Rust Git tool | 🚧 开发中 |
+| [**CrossBag**](https://github.com/bit-torch/CrossBag) | 跨平台P2P文件同步解决方案 / cross-platform sync document solution | 🚧 开发中 |
 | [**MusKitty**](https://github.com/Ink-dark/MusKitty) | MusCat 浏览器 AI 智能核心 / MusCat browser AI core | 📋 规划中 |
-| **HandleTokens** | 令牌管理与处理 / Token management | 💡 构思中 |
+| **HandleTokens** | AI令牌再次分发 / Token management | 💡 构思中 |
 | **5Stones** | 五子棋 / Gomoku | 💡 构思中 |
 | **ReChat 系列** | 聊天应用系列 / Chat app series | 💡 构思中 |
 | [**crazyideas**](https://github.com/Ink-dark/crazyideas) | 疯狂点子仓库 / Crazy ideas repo | 📓 持续更新 |
