@@ -24,6 +24,7 @@ A developer with a head full of crazy ideas. I love building things from scratch
 
 | 项目 Project | 简介 Description | 状态 Status |
 |-------------|-----------------|-------------|
+| [**Orcha**](https://github.com/Ink-dark/orcha) | AI 驱动的飞书编码 Agent，@ 机器人一句话自主拆解、编码、测试、审核并推到 Git 新分支 / AI-driven Feishu coding agent that plans, codes, tests, reviews and pushes to a new branch from one @-mention | 🚧 开发中 |
 | [**AdapterGit (agit)**](https://github.com/Ink-dark/AdapterGit) | AI 优先、纯 Rust 原生 Git 工具 / AI-first, pure Rust Git tool | 🚧 开发中 |
 | [**CrossBag**](https://github.com/bit-torch/CrossBag) | 跨平台P2P文件同步解决方案 / cross-platform sync document solution | 🚧 开发中 |
 | [**MusKitty**](https://github.com/Ink-dark/MusKitty) | MusCat 浏览器 AI 智能核心 / MusCat browser AI core | 📋 规划中 |
