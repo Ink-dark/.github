@@ -39,11 +39,6 @@ A developer with a head full of crazy ideas. I love building things from scratch
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ink-dark&theme=github-compact&area=true&hide_border=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ink-dark/Ink-dark/main/profile-3d-contrib/profile-night-view.svg">
-  <img alt="3D 贡献图 / 3D Contribution" src="https://raw.githubusercontent.com/Ink-dark/Ink-dark/main/profile-3d-contrib/profile-green-animate.svg">
-</picture>
-
 ---
 
 ## 🛠️ 技术栈 / Tech Stack
@@ -56,19 +51,18 @@ A developer with a head full of crazy ideas. I love building things from scratch
 
 ## 📊 统计 / Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ink-dark&show_icons=true&theme=dark">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ink-dark&show_icons=true">
-</picture>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ink-dark&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ink-dark&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ink-dark&theme=tokyonight)
 ---
 
 ## 📫 联系我 / Contact
 
 - GitHub: [@Ink-dark](https://github.com/Ink-dark)
-- 邮箱 / Email: d16671480856@163.com
+- Bilibili：[墨染柒_Official 的个人主页](https://space.bilibili.com/3546815179786536)
+- 邮箱 / Email: moranqi@mail.bit-torch.cn （慢回复/Slow Reply）
 
 ---
 
-*本仓库所有内容使用 CC BY-NC-SA 协议授权。*
-*All content in this repository is licensed under CC BY-NC-SA.*
+*本自述文件中所有内容使用 CC BY-NC-SA 协议授权。*
+*All content in this Readme.md is licensed under CC BY-NC-SA.*
