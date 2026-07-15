@@ -50,13 +50,6 @@ A developer with a head full of crazy ideas. I love building things from scratch
 ---
 
 ## 📊 统计 / Stats
-
-<!-- ① 个人统计卡片（仍用官方公共实例，挂了就看下方"自建方案"） -->
-![Ink-dark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ink-dark&show_icons=true&theme=gruvbox&hide_rank=false&count_private=true)
-
-<!-- ② 常用语言卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ink-dark&layout=compact&theme=gruvbox&langs_count=8)
-
 <!-- ③ Streak 连续提交（换 demolab 域名，DenverCoder1 官方维护，比 heroku 稳） -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ink-dark&theme=gruvbox&hide_border=true)
 ---
