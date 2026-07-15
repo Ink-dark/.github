@@ -50,6 +50,7 @@ A developer with a head full of crazy ideas. I love building things from scratch
 ---
 
 ## 📊 统计 / Stats
+![GitHub Stats](https://github-stats.vercel.app/api?username=Ink-dark&show_icons=true&theme=dark&hide_border=true&count_private=true)
 <!-- ③ Streak 连续提交（换 demolab 域名，DenverCoder1 官方维护，比 heroku 稳） -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ink-dark&theme=gruvbox&hide_border=true)
 ---
